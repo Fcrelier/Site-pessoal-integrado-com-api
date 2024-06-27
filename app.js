@@ -1,4 +1,4 @@
-const githubtoken = "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"
+const githubtoken = "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"
 const githubapiurl = "https://api.github.com" 
 const username = "Fcrelier" 
 
