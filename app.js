@@ -120,3 +120,6 @@ async function getItems(){
 document.getElementById('repo1').addEventListener('click', function() {
     window.location.href = 'tela2.html';
 });
+
+
+//bolinha123
