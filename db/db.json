@@ -1,0 +1,45 @@
+{
+    "carousel-items": [
+      {
+        "id": 1,
+        "image": "assets/code acadamey.png",
+        "titulo": "Code Academy",
+        "link": "https://www.codecademy.com"
+      },
+      {
+        "id": 2,
+        "image": "assets/rockeatseat.png",
+        "titulo": "RockeatSeat",
+        "link": "https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google"
+      },
+      {
+        "id": 3,
+        "image": "assets/udemy.png",
+        "titulo": "Udemy",
+        "link": "https://www.udemy.com/?ranMID=39197&ranEAID=hL6ObH*7r3M&ranSiteID=hL6ObH.7r3M-GHjYujl0CJsL0D6Gw_hC4g&LSNPUBID=hL6ObH*7r3M&utm_source=aff-campaign&utm_medium=udemyads"
+      }
+    ],
+    "colegas": [
+      {
+        "id": 1,
+        "imagem": "assets/larissa.png",
+        "titulo": "Larissa Ruthyle",
+        "descricao": "Olá, sou a Larissa 🙋🏻. Graduada em Sistemas de informação na UVV 🎓 e me aprimorando em cursos com foco na área de Front-end.",
+        "github": "https://github.com/larissadantier"
+      },
+      {
+        "id": 2,
+        "imagem": "assets/saliba.png",
+        "titulo": "Gabriel Saliba",
+        "descricao": "My name is Gabriel Saliba, I'm a Software Developer 💻 from Brazil.",
+        "github": "https://github.com/GabrielSaliba"
+      },
+      {
+        "id": 3,
+        "imagem": "assets/G.Iris.jpg",
+        "titulo": "G. Iris",
+        "descricao": "Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas desde fevereiro de 2024, 19 anos. A procura de experiência na área da programação.",
+        "github": "https://github.com/IrisGardenia"
+      }
+    ]
+  }
